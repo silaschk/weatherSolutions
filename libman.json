@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "open-weather@2.0.0",
+      "destination": "wwwroot/lib/open-weather/"
+    },
+    {
+      "library": "bootstrap-weather@1.0.0",
+      "destination": "wwwroot/lib/bootstrap/bootstrap-weather/"
+    }
+  ]
+}

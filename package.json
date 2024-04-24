@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@popperjs/core": "file:2.6.0/dist/umd/popper.min.js",
+    "bootstrap": "^3.4.1"
+  }
+}
