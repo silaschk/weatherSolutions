@@ -8,7 +8,6 @@ To run the Weather Solutions app locally, follow these steps:
 
 1. Clone this repository to your local machine: 
 2. Navigate to the project directory:
-3. Open weatherSolutions.sln
 4. Install dependencies using npm:
 5. Start project in ISS Express
 
